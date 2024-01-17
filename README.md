@@ -27,5 +27,7 @@ Routezy is released under the [MIT License](LICENSE).
 I hope you enjoy using Routezy as much as I enjoyed building it!
 
 Aryan Singh
+---
 [Email Me](mailto:Write2aryan@gmail.com)
+---
 [My LinkedIn](https://www.linkedin.com/in/aryan-singh-dev/)
