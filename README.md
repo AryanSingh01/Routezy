@@ -30,4 +30,4 @@ Aryan Singh
 ---
 [Email Me](mailto:Write2aryan@gmail.com)
 ---
-[My LinkedIn](https://www.linkedin.com/in/aryan-singh-dev/)
+[LinkedIn](https://www.linkedin.com/in/aryan-singh-dev/)
